@@ -1,4 +1,5 @@
 ### Hi there 👋
+#### My name is Kevin and I am currently learning to be a full-stack web developer based in North Carolina.
 
 <!--
 **Glonky1337/Glonky1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
